@@ -1,11 +1,12 @@
 * {
     background-color: black;
-    font-family: Arial, 'Times New Roman', Verdana;
+    font-family: 'Times New Roman', Times, serif
 }
 
 h1 {
     color: lightblue;
     font-size: 50px;
+    text-align: center;
 }
 
 .list {
