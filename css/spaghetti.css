@@ -1,1 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+    width: auto;
+}
+
+h3 {
+    color: pink;
+    font-size: 25px
+}
+
 
